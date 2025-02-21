@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="skillGrid" type="id" />
+    <item name="submitSpinner" type="id" />
+    <item name="submitButton" type="id" />
+    <item name="etSignUpUsername" type="id" />
+    <item name="etSignUpEmail" type="id" />
+    <item name="etSignUpPassword" type="id" />
+    <item name="etConfirmPassword" type="id" />
+    <item name="btnSignUp" type="id" />
+    <item name="passwordToggleSignUp" type="id" />
+    <item name="confirmPasswordToggle" type="id" />
+    <item name="tvLogin" type="id" />
+    <item name="titleText" type="id" />
+</resources>

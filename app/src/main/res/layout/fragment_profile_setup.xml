@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <!-- Profile Picture -->
+        <ImageView
+            android:id="@+id/ivProfilePicture"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_profile_placeholder"
+            android:contentDescription="@string/profile_picture"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Button to Choose Profile Picture -->
+        <Button
+            android:id="@+id/btnChooseProfilePicture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:text="@string/choose_profile_picture" />
+
+        <!-- Name Input -->
+        <EditText
+            android:id="@+id/etName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/name"
+            android:inputType="textPersonName"
+            android:layout_marginBottom="12dp"
+            android:padding="12dp"
+            android:minHeight="48dp"
+            android:textSize="16sp" />
+
+        <!-- Age Input -->
+        <EditText
+            android:id="@+id/etAge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/age"
+            android:inputType="number"
+            android:layout_marginBottom="12dp"
+            android:padding="12dp"
+            android:minHeight="48dp"
+            android:textSize="16sp" />
+
+        <!-- Occupation Input -->
+        <EditText
+            android:id="@+id/etOccupation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/occupation"
+            android:inputType="text"
+            android:layout_marginBottom="12dp"
+            android:padding="12dp"
+            android:minHeight="48dp"
+            android:textSize="16sp" />
+
+        <!-- Bio Input -->
+        <EditText
+            android:id="@+id/etBio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/bio"
+            android:inputType="textMultiLine"
+            android:layout_marginBottom="24dp"
+            android:padding="12dp"
+            android:minHeight="80dp"
+            android:textSize="16sp" />
+
+        <!-- Save Button -->
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/save"
+            android:textSize="18sp" />
+    </LinearLayout>
+</ScrollView>

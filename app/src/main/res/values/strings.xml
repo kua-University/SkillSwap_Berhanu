@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">SkillSwap</string>
+    <string name="tell_us_about_yourself" translatable="false">Tell us about yourself</string>
+    <string name="what_is_your_name" translatable="false">What is your name?</string>
+    <string name="enter_your_name" translatable="false">Enter your name</string>
+    <string name="how_old_are_you" translatable="false">How old are you?</string>
+    <string name="enter_your_age" translatable="false">Enter your age</string>
+    <string name="tell_us_about_yourself_bio" translatable="false">Tell us a little about yourself (Bio)</string>
+    <string name="enter_short_bio" translatable="false">Enter a short bio</string>
+    <string name="what_do_you_do" translatable="false">What do you do (Occupation)?</string>
+    <string name="enter_your_occupation" translatable="false">Enter your occupation</string>
+    <string name="save_and_continue" translatable="false">Save and Continue</string>
+    <string name="data_saved_successfully" translatable="false">Data saved successfully!</string>
+    <string name="failed_to_save_data" translatable="false">Failed to save data</string>
+    <string name="fill_in_all_fields">Please fill in all fields</string>
+    <string name="add_post">Add Post</string>
+    <string name="like_button_description">Like button</string>
+    <string name="share_button_description">Share button</string>
+    <string name="create_post">Create Post</string>
+    <string name="user_name">User Name</string>
+    <string name="profile_image_url">Profile Image URL</string>
+    <string name="post_image_url_optional">Post Image URL (Optional)</string>
+    <string name="skill_name">Skill Name</string>
+    <string name="description">Description</string>
+    <string name="create_post_button">Create Post</string>
+    <string name="profile_image_description">Profile Image</string>
+    <string name="back_button_description">Back</string>
+    <string name="default_username">User Name</string>
+    <string name="skill_name_placeholder">Skill Name</string>
+    <string name="skill_description_placeholder">Skill Description</string>
+
+    <string name="posting">Posting…</string>
+    <string name="username_required">Username is required</string>
+    <string name="skill_required">Skill name is required</string>
+    <string name="skill_description">Description is required</string>
+    <string name="timestamp_placeholder">2 hours ago</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="post">Post</string>
+    <string name="messages">Messages</string>
+    <string name="job_title">Job Title</string>
+    <string name="search_hint">Search by name or job title</string>
+    <string name="search_button_description">Search button</string>
+    <string name="unknown_user">Unknown User</string>
+    <string name="unknown_job">Unknown Job Title</string>
+
+    <string name="enter_search_query">Please enter a search query</string>
+    <string name="no_results_found">No results found</string>
+    <string name="search_error_message">An error occurred while performing the search</string>
+    <string name="skills_learning">skill_learning</string>
+    <string name="skills">Skills ypu are good at</string>
+    <string name="skills_learni">Skills I am currently learning</string>
+    <string name="skill">Skills I want to teach others</string>
+    <string name="profile">profile</string>
+    <string name="skills_teaching">skills I am teaching</string>
+    <string name="choose_profile_picture">Choose Profile Picture</string>
+    <string name="name">Name</string>
+    <string name="bio">Bio</string>
+    <string name="occupation">Occupation</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+    <string name="skill1">Skill</string>
+    <string name="profile_picture">profile</string>
+    <!-- Notification Channel -->
+    <string name="channel_name">New Posts</string>
+    <string name="channel_description">Notifications about new posts</string>
+
+    <!-- Notification Content -->
+    <string name="new_post_notification_title">New Post Available!</string>
+    <string name="new_post_notification_message">Check out the new post: %1$s</string>
+    <string name="skillswap">SkillSwap</string>
+    <string name="notification_icon">noico</string>
+    <string name="profile_icon">pro</string>
+    <string name="thought_placeholder">thought\n\n</string>
+    <string name="occupation_placeholder">occupation</string>
+    <string name="notifications">notifications</string>
+    <string name="no_posts_available">no_posts_available</string>
+    <string name="email">Email</string>
+    <string name="logout">logout</string>
+    <string name="whats_on_your_mind">What is on your mind?</string>
+    <string name="you_can_add_a_post_below">You can add a post below</string>
+    <string name="slogan">voyn</string>
+    <string name="search_users">Users</string>
+    <string name="coming_soon">Coming Soon</string>
+</resources>

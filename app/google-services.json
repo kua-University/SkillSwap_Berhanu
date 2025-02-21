@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1026349363287",
+    "firebase_url": "https://voyn-ca30e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "voyn-ca30e",
+    "storage_bucket": "voyn-ca30e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026349363287:android:f4d3f3d2582397024bf312",
+        "android_client_info": {
+          "package_name": "com.examole.skillswap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhq7OH_abCp8ZZFrd-3JB-Ay5oo5HHxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026349363287:android:e8bd7b70c536d8b14bf312",
+        "android_client_info": {
+          "package_name": "com.example.skillswap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhq7OH_abCp8ZZFrd-3JB-Ay5oo5HHxPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
