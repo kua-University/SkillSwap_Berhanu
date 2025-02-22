@@ -1,5 +1,4 @@
-## Berhanu Hiluf
-## UGR/170254/12
+
 
 # 📌 SkillSwap
 
@@ -85,3 +84,8 @@
 ### 4️⃣ Share Your Progress
 - Post thoughts & updates in PostFragment
 - View posts in HomeFragment
+#3 installation
+   - clone the following repository
+   - 
+ ## Berhanu Hiluf
+## UGR/170254/12
